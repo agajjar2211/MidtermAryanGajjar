@@ -1,0 +1,8 @@
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.csproj.AssemblyReference.cache
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.MvcApplicationPartsAssemblyInfo.cache

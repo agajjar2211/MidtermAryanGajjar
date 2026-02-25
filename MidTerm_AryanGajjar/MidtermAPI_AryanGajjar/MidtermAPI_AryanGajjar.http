@@ -1,0 +1,6 @@
+@MidtermAPI_AryanGajjar_HostAddress = http://localhost:5157
+
+GET {{MidtermAPI_AryanGajjar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
