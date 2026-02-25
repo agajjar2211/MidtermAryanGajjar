@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "MidtermAPI_AryanGajjar.Controllers.AGProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productName",
+        "Type": "MidtermAPI_AryanGajjar.Models.AGProduct",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_AryanGajjar.Controllers.AGProductController",
+    "Method": "GetProducts",
+    "RelativePath": "Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_AryanGajjar.Controllers.AGProductController",
+    "Method": "ProductsJs",
+    "RelativePath": "ProductsJS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fail",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_AryanGajjar.Controllers.AGProductController",
+    "Method": "Usage",
+    "RelativePath": "usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MidtermAPI_AryanGajjar.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MidtermAPI_AryanGajjar.WeatherForecast, MidtermAPI_AryanGajjar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

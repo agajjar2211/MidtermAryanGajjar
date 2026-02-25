@@ -776,7 +776,7 @@
           }
         }
       },
-      "Microsoft.OpenApi/2.4.1": {
+      "Microsoft.OpenApi/3.3.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.OpenApi.dll": {
@@ -843,13 +843,13 @@
           }
         }
       },
-      "Swashbuckle.AspNetCore/10.1.4": {
+      "Swashbuckle.AspNetCore/10.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "10.0.0",
-          "Swashbuckle.AspNetCore.Swagger": "10.1.4",
-          "Swashbuckle.AspNetCore.SwaggerGen": "10.1.4",
-          "Swashbuckle.AspNetCore.SwaggerUI": "10.1.4"
+          "Swashbuckle.AspNetCore.Swagger": "10.0.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.0.0",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.0.0"
         },
         "build": {
           "build/Swashbuckle.AspNetCore.props": {}
@@ -3026,10 +3026,10 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
-    "Microsoft.OpenApi/2.4.1": {
-      "sha512": "u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
+    "Microsoft.OpenApi/3.3.1": {
+      "sha512": "8Xo42prPRLeQpcSv9sjajQQ0o+gL7rZ4HMUsNNI47iqK+bxDrIwLOGlN9fLAlTpJk0iyXRNR51zupMt5IdhU/w==",
       "type": "package",
-      "path": "microsoft.openapi/2.4.1",
+      "path": "microsoft.openapi/3.3.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3040,7 +3040,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.2.4.1.nupkg.sha512",
+        "microsoft.openapi.3.3.1.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -3127,17 +3127,17 @@
         "packageIcon.png"
       ]
     },
-    "Swashbuckle.AspNetCore/10.1.4": {
-      "sha512": "3y9YcUdzND3E21NiGvhxEVw2/rdQSbSLDOxrAMP96ZCaDVeB8b30L8QeWA9cfkxfyeXt+F2t1umKE0kaPxm4FA==",
+    "Swashbuckle.AspNetCore/10.0.0": {
+      "sha512": "ciYIKYWeB1486X8CgUqrUgahqV8xAdzVPuxN2buW9VvmYcfwtziE2G5f+gE3QSVv+iKE01U7WKXyS1GadQjyuQ==",
       "type": "package",
-      "path": "swashbuckle.aspnetcore/10.1.4",
+      "path": "swashbuckle.aspnetcore/10.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/Swashbuckle.AspNetCore.props",
         "buildMultiTargeting/Swashbuckle.AspNetCore.props",
         "docs/package-readme.md",
-        "swashbuckle.aspnetcore.10.1.4.nupkg.sha512",
+        "swashbuckle.aspnetcore.10.0.0.nupkg.sha512",
         "swashbuckle.aspnetcore.nuspec"
       ]
     },
@@ -3565,7 +3565,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 10.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.3",
-      "Swashbuckle.AspNetCore >= 10.1.4",
+      "Microsoft.OpenApi >= 3.3.1",
+      "Swashbuckle.AspNetCore >= 10.0.0",
       "Swashbuckle.AspNetCore.Swagger >= 10.1.4",
       "Swashbuckle.AspNetCore.SwaggerGen >= 10.1.4",
       "Swashbuckle.AspNetCore.SwaggerUI >= 10.1.4"
@@ -3646,9 +3647,13 @@
             "target": "Package",
             "version": "[10.0.3, )"
           },
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[3.3.1, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "[10.1.4, )"
+            "version": "[10.0.0, )"
           },
           "Swashbuckle.AspNetCore.Swagger": {
             "target": "Package",

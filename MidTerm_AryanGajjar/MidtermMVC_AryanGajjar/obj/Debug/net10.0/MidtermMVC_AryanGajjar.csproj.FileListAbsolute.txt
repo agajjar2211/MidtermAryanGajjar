@@ -146,6 +146,7 @@ C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_A
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\MidtermMVC_AryanGajjar.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\MidtermMVC_AryanGajjar.RazorAssemblyInfo.cache
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\MidtermMVC_AryanGajjar.RazorAssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\MidtermMVC_AryanGajjar.sourcelink.json
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermMVC_AryanGajjar\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

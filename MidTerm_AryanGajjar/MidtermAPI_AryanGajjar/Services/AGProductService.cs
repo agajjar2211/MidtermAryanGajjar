@@ -1,8 +1,8 @@
 ﻿using MidtermAPI_AryanGajjar.Models;
 
 namespace MidtermAPI_AryanGajjar.Services
-{
-    public class AGProductService
+{ 
+    public class AGProductService : IAGProductService
     {
         private readonly List<AGProduct> _products = new()
         {

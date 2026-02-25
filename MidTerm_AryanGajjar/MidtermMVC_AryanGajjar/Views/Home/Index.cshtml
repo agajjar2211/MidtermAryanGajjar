@@ -1,8 +1,31 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model Dictionary<string, string>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Midterm MVC Client</h2>
+
+<p><b>API Base URL:</b> @Model.GetValueOrDefault("ApiBaseUrl")</p>
+
+<hr />
+
+<h3>Usage Counter</h3>
+<form asp-action="CheckUsage" method="post">
+    <button type="submit">Call GET /usage</button>
+</form>
+
+<p><b>Status:</b> @Model.GetValueOrDefault("UsageStatus")</p>
+<pre>@Model.GetValueOrDefault("UsageBody")</pre>
+
+<hr />
+
+<h3>Create Product</h3>
+<form asp-action="CreateProduct" method="post">
+    <label>Name:</label>
+    <input name="name" />
+    <br />
+    <label>Quantity:</label>
+    <input name="quantity" type="number" value="0" />
+    <br /><br />
+    <button type="submit">POST /Product</button>
+</form>
+
+<p><b>Status:</b> @Model.GetValueOrDefault("CreateStatus")</p>
+<pre>@Model.GetValueOrDefault("CreateBody")</pre>

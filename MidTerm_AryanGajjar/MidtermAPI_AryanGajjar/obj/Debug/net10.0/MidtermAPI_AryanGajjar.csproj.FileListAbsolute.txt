@@ -6,3 +6,4 @@ C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_A
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.csproj.CoreCompileInputs.cache
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aryan\OneDrive\Desktop\midterm_aryangajjar\MidtermAryanGajjar\MidTerm_AryanGajjar\MidtermAPI_AryanGajjar\obj\Debug\net10.0\MidtermAPI_AryanGajjar.sourcelink.json
