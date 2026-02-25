@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidtermAPI_AryanGajjar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeae4975edfcba8eb6d3ffb2ea79b917fd9cb028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c0e967df28b7e07deee6e5692c1a42d5c61ce00")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidtermAPI_AryanGajjar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidtermAPI_AryanGajjar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,31 +9,32 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(options =>
-{
-    options.AddSecurityDefinition("ApiKey", new OpenApiSecurityScheme
-    {
-        Description = "Enter API key in the box below (X-Api-Key).",
-        Name = "X-Api-Key",
-        In = ParameterLocation.Header,
-        Type = SecuritySchemeType.ApiKey
-    });
+builder.Services.AddSwaggerGen();
+//builder.Services.AddSwaggerGen(options =>
+//{
+//    options.AddSecurityDefinition("ApiKey", new OpenApiSecurityScheme
+//    {
+//        Description = "Enter API key in the box below (X-Api-Key).",
+//        Name = "X-Api-Key",
+//        In = ParameterLocation.Header,
+//        Type = SecuritySchemeType.ApiKey
+//    });
 
-    options.AddSecurityRequirement(new OpenApiSecurityRequirement
-    {
-        {
-            new OpenApiSecurityScheme
-            {
-                Reference = new OpenApiReference
-                {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "ApiKey"
-                }
-            },
-            Array.Empty<string>()
-        }
-    });
-});
+//    options.AddSecurityRequirement(new OpenApiSecurityRequirement
+//    {
+//        {
+//            new OpenApiSecurityScheme
+//            {
+//                Reference = new OpenApiReference
+//                {
+//                    Type = ReferenceType.SecurityScheme,
+//                    Id = "ApiKey"
+//                }
+//            },
+//            Array.Empty<string>()
+//        }
+//    });
+//});
 
 builder.Services.AddSingleton<IAGProductService, AGProductService>();
 builder.Services.AddSingleton<AGUsageCounter>();

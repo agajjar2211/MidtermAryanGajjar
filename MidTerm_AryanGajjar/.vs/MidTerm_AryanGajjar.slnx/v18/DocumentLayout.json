@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|solutionrelative:midtermapi_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|solutionrelative:midtermapi_aryangajjar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E29EA9A-D217-8330-34D7-31FFFB13205E}|MidtermMVC_AryanGajjar\\MidtermMVC_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermmvc_aryangajjar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1E29EA9A-D217-8330-34D7-31FFFB13205E}|MidtermMVC_AryanGajjar\\MidtermMVC_AryanGajjar.csproj|solutionrelative:midtermmvc_aryangajjar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E29EA9A-D217-8330-34D7-31FFFB13205E}|MidtermMVC_AryanGajjar\\MidtermMVC_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermmvc_aryangajjar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E29EA9A-D217-8330-34D7-31FFFB13205E}|MidtermMVC_AryanGajjar\\MidtermMVC_AryanGajjar.csproj|solutionrelative:midtermmvc_aryangajjar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|solutionrelative:midtermapi_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\midtermapi_aryangajjar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\services\\iagproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|solutionrelative:midtermapi_aryangajjar\\services\\iagproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|solutionrelative:midtermapi_aryangajjar\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3D08A49-378F-38CC-F025-7C02DA708F7F}|MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\midterm_aryangajjar\\midtermaryangajjar\\midterm_aryangajjar\\midtermapi_aryangajjar\\controllers\\agproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermMVC_AryanGajjar\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MidtermMVC_AryanGajjar\\Views\\Home\\Index.cshtml",
@@ -90,12 +90,11 @@
               "RelativeToolTip": "MidtermMVC_AryanGajjar\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwB4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T23:18:31.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T23:18:31.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermMVC_AryanGajjar\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MidtermMVC_AryanGajjar\\Controllers\\HomeController.cs",
@@ -103,12 +102,11 @@
               "RelativeToolTip": "MidtermMVC_AryanGajjar\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T23:18:03.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T23:18:03.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermMVC_AryanGajjar\\Program.cs",
               "RelativeDocumentMoniker": "MidtermMVC_AryanGajjar\\Program.cs",
@@ -116,12 +114,11 @@
               "RelativeToolTip": "MidtermMVC_AryanGajjar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T23:17:49.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T23:17:49.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermMVC_AryanGajjar\\appsettings.json",
               "RelativeDocumentMoniker": "MidtermMVC_AryanGajjar\\appsettings.json",
@@ -134,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\Program.cs",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\Program.cs",
               "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\Program.cs",
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T22:37:24.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\WeatherForecast.cs",
@@ -168,8 +165,7 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Middleware\\AGApiKeyMiddleware.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:25:49.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:25:49.321Z"
             },
             {
               "$type": "Document",
@@ -181,12 +177,11 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Middleware\\AGGlobalExceptionMiddleware.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:19:31.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:19:31.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MidtermAPI_AryanGajjar.csproj",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj",
@@ -194,12 +189,11 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\MidtermAPI_AryanGajjar.csproj",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-25T22:18:43.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:18:43.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AGUsageCounter.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\Services\\AGUsageCounter.cs",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\Services\\AGUsageCounter.cs",
@@ -207,12 +201,11 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Services\\AGUsageCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:18:12.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:18:12.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\appsettings.json",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\appsettings.json",
@@ -220,12 +213,11 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-25T22:12:50.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:12:50.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IAGProductService.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\Services\\IAGProductService.cs",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\Services\\IAGProductService.cs",
@@ -233,12 +225,11 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Services\\IAGProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:12:19.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:12:19.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AGProductService.cs",
               "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\midterm_aryangajjar\\MidtermAryanGajjar\\MidTerm_AryanGajjar\\MidtermAPI_AryanGajjar\\Services\\AGProductService.cs",
               "RelativeDocumentMoniker": "MidtermAPI_AryanGajjar\\Services\\AGProductService.cs",
@@ -246,8 +237,7 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Services\\AGProductService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:11:56.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:11:56.37Z"
             },
             {
               "$type": "Document",
@@ -259,8 +249,7 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Controllers\\AGProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:06:39.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:06:39.692Z"
             },
             {
               "$type": "Document",
@@ -272,8 +261,7 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:06:21.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:06:21.226Z"
             },
             {
               "$type": "Document",
@@ -285,8 +273,7 @@
               "RelativeToolTip": "MidtermAPI_AryanGajjar\\Models\\AGProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T22:01:54.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T22:01:54.638Z"
             }
           ]
         }
